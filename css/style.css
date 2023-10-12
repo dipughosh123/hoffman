@@ -1,0 +1,327 @@
+*{
+    margin:0px;
+    box-sizing: border-box;
+    word-break: break-all;
+
+}
+
+header{
+    display: flex;
+    flex-wrap: wrap;
+    padding:20px 140px;
+    box-shadow: 0px 2px 20px 2px rgb(207, 205, 205);
+
+}
+.navbarflexbox{
+    display:flex;
+    flex-wrap: wrap;
+    padding-top: 13px;
+}
+.jeffhoffmanlogo p {
+    font-size: 40px;
+
+}
+.navbarflexbox div{
+    margin-left: 30px;
+    
+}
+.navbarflexbox{
+    margin-left:172px;
+    
+}
+.navbarflexbox div a{
+    text-decoration: none;
+    color:black;
+}
+.rectangle12{
+    padding:20px 140px;
+    background-color: black;
+    margin-bottom: 30px;
+
+
+}
+.rectangle12 img{
+    width: 100%;
+    height:100%;
+}
+.rectangle31parentflexbox{
+    display: flex;
+    flex-wrap: wrap;
+    padding:0px 250px;
+}
+.rectangle31_1{
+    width:60%;
+    height:400px;
+    background-color: rgb(251, 248, 248);
+    background-image: url('../images/Rectangle 31.png');
+    background-size:132px 400px;
+    background-repeat: no-repeat;
+    background-position:150px;
+    padding:35px;
+}
+.rectangle31_2{
+    width:40%;
+    height:400px;
+    background-color: red;
+}
+.rectangle31_2 img{
+    width:100%;
+    height:100%;
+}
+.rectangle31heading{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.rectangle31heading p{
+    font-size: 40px;
+    
+}
+.rectangle31para{
+    padding:0px 150px 0px 0px;
+    line-height: 20px;
+    margin-bottom: 40px;
+}
+.rectangle31readmore{
+    text-align: center;
+
+}
+.rectangle31readmore a{
+    text-decoration: none;
+    color: black;
+    
+}
+.registerdiv1{
+    width: 283px;
+    height:172px;
+    background-color: rgb(44, 178, 231);
+    box-shadow: 4px 4px 20px 2px rgb(210, 209, 209);
+    padding:0px 15px;
+    text-align: center;
+}
+.registerdiv1 P{
+    font-size: 30px;
+    color:white;
+    margin-top: 70px;
+    font-weight: 700;
+}
+.registerdiv2 P{
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 70px;
+}
+.registerdiv2{
+    width: 283px;
+    height:172px;
+    background-color: white;
+    box-shadow: 4px 4px 20px 2px rgb(210, 209, 209);
+    padding:0px 25px;
+    text-align: center;
+}
+.registerparentflexbox{
+    display: flex;
+    padding:0px 335px;
+    flex-wrap:wrap;
+    position: relative;
+    bottom: 80px;
+}
+.eliparent{
+    height:311px;
+    width:100%;
+    padding: 50px 250px;
+    text-align: center;
+    background-image: url('../images/blackbackground.jpg');
+    color: white;
+    background-size: cover;
+    font-size: 18px;
+    line-height: 23px;
+}
+.eliparent h2{
+    margin-top: 30px;
+}
+.jeffhas{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.forbesparent{
+    height:120px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.forbesparent img{
+    height:100%;
+}
+.complicatedparentbox{
+    padding:0px 170px;
+    height:500px;
+}
+.complicatedsecondflexbox{
+    background-color:rgb(251, 244, 244) ;
+    width:100%;
+    height:100%;
+    display:flex;
+    padding:50px;
+}
+.complicatedfirstflexcontainer{
+    width:48%;
+    overflow:hidden;
+    
+}
+.complicatedsecondflexcontainer{
+    width:52%;
+    
+}
+.publiclogo{
+    margin-left: 100px;
+    
+}
+.rectangle32{
+    margin-top: 100px;
+    
+}
+.rectangle34{
+    position:relative;
+    right:5px;
+}
+.rectangle33{
+    position:relative;
+    right:10px;
+}
+.youtubeanalytics{
+    width:100%;
+    height:100%;
+    border-radius: 5px;
+}
+.rectangle25parent{
+    margin-top: 35px;
+    margin-bottom: 45px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.rectangle251stcontainer{
+    width:871px;
+    height:400px;
+    background-image: url('../images/Rectangle 25.png');
+    background-size: cover;
+    padding: 50px;
+    text-align: center;
+}
+.rectangle252ndcontainer{
+    width:312px;
+    height:400px;
+    margin-left: 100px;
+
+}
+.rectangle252ndcontainer img{
+    width:100%;
+    height:100%;
+}
+.joinjeff{
+    font-size: 30px;
+    color:white;
+    margin-top: 30px;
+    
+}
+.rectangle251stcontainer h1{
+    font-size: 40px;
+    color:white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.rectangle251stcontainer a{
+    
+    text-decoration: none;
+    color:black;
+    
+    
+}
+.rectangle251stcontainer a h3{
+    padding:15px 40px;
+    background-color: white;
+    width:400px;
+    border-radius: 5px;
+    margin-left: 192px;
+    
+}
+.collage{
+    height:500px;
+    width:100%;
+    background-image:url('../images/collage.png');
+    background-size: cover;
+    margin-bottom: 15px;
+}
+.collagecolor{
+    width:100%;
+    height:100%;
+    background-color: rgba(12, 12, 12,0.8);
+    
+    padding:80px 250px;
+    text-align: center;
+}
+.collagecolor h1{
+    color:white;
+    margin-bottom: 45px;
+}
+.collagecolor p{
+    color: white;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 80px;
+}
+.collagecolor a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(22, 116, 154);
+    padding:20px 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.collagecolor a:hover{
+    background-color: white;
+    color: black;
+}
+footer{
+    height:251px;
+    background-image: url('../images/whitebackground.jpg');
+    background-size: cover;
+    padding:30px 200px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer1{
+    width:30%;
+
+}
+.footer2{
+    width:19%;
+    padding:40px 0px 0px 0px;
+}
+.footer3{
+    width: 32%;
+    padding:40px 0px 0px 0px;
+}
+.footer1 p{
+    font-size: 40px;
+}
+.footer2 ul li a{
+    text-decoration: none;
+    color: black;
+    
+}
+.footer2 ul li{
+    margin-top: 20px;
+}
+.footer3 a{
+    text-decoration: none;
+    background-color: rgb(30, 129, 168);
+    padding:20px 30px;
+    border-radius: 10px;
+    color: white;
+}
+.footer3 i{
+    margin-bottom: 30px;
+}
+
+

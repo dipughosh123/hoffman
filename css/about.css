@@ -1,0 +1,110 @@
+.entrapreneurparent{
+    width:100%;
+    height: 400px;
+    background-image: url('../images/Union (9).png');
+    background-size: cover;
+    padding:0px 200px;
+    margin-bottom: 215px;
+}
+.entrapreneur1{
+    width:100%;
+    height: 255px;
+    background-image: url('../images/2831 1.png');
+    background-size: cover;
+    padding:30px 50px;
+    text-align: center;
+    position: relative;
+    top:300px;
+}
+.entrapreneur1 h1{
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+.threepicparent{
+    display: flex;
+    flex-wrap: wrap;
+    padding:0px 270px;
+    margin-bottom: 40px;
+}
+.threepicparent img{
+    width: 30%;
+}
+.threepicspace{
+    margin-left: 5%;
+}
+.afterthreepicparaparent{
+    padding:0px 250px;
+    margin-bottom: 50px;
+}
+.logosparent{
+    padding:0px 250px;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.logosparent img{
+    width: 100%;;
+}
+.threecurvepicparent{
+    padding: 0px 320px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 110px;
+}
+.threecurvepicparent img{
+    width:30%;
+}
+.curveimagespace{
+    margin-left: 5%;
+}
+.curveimagedown{
+    position: relative;
+    top:80px;
+}
+.keynoteparent{
+    width:100%;
+    height: 500px;
+    background-image: url('../images/Union (16).png');
+    background-size: cover;
+    padding: 50px 200px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+}
+.keynote1{
+    width:50%;
+    padding:70px 0px 0px 0px;
+}
+
+.keynote2{
+    width:42%;
+    margin-left: 8%;
+}
+.keynote1 p{
+    font-size: 20px;
+}
+.l{
+    font-size: 30px;
+}
+.keynote2 img{
+    width:100%;
+    margin-top: 30px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.aboutpagelastparaparent{
+    padding:0px 200px;
+    height: 400px;
+    margin-bottom: 80px;
+}
+.aboutpagelastpara1{
+    width: 100%;
+    height: 100%;
+    background-image: url('../images/Union (16).png');
+    background-size: cover;
+    padding:70px 90px;
+    text-align: center;
+}
+.aboutpagelastpara1 p{
+    font-size: 20px;
+    line-height: 25px;
+}

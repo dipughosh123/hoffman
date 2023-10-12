@@ -1,0 +1,216 @@
+.stuart{
+    width: 100%;
+    height:400px;
+    background-image: url('../images/officeman.jpg');
+    background-size: cover;
+    
+    text-align: center;
+    margin-bottom: 50px;
+}
+.stuartcolor p{
+    font-size: 18px;
+    color: white;
+    margin-bottom: 50px;
+
+}
+.stuartcolor h1{
+    color: white;
+}
+.stuartcolor{
+    width:100%;
+    height:100%;
+    padding:120px 250px;
+    background-color: rgba(27, 13, 59, 0.5);
+}
+.speakingtopics{
+    width:100%;
+    text-align: center;
+    padding:0px 300px;
+    margin-bottom:50px
+}
+.speakingtopics h1{
+    margin-bottom: 40px;
+}
+.mapflexbox{
+    display: flex;
+    flex-wrap: wrap;
+    padding:0px 0px 0px 200px;
+    margin-bottom: 50px;
+}
+.map1{
+    padding:30px 0px;
+    width:45%;
+    height: 512px;
+}
+.map1 img{
+    width:100%;
+    height:100%;
+}
+.map2{
+    width:55%;
+    height:512px;
+    background-image: url('../images/shokunin_World_Map 1.png');
+}
+.map2 p{
+    font-size: 30px;
+    
+}
+.h7{
+    margin-top: 19px;
+    margin-left: 20px;
+}
+.h1{
+    margin-left: 20px;
+}
+.map2 p strong{
+    font-size: 50px;
+    
+}
+.h2{
+    margin-left: 60px;
+    margin-top: 19px;
+}
+.h3{
+    margin-left: 100px;
+    margin-top: 19px;
+}
+.listenparent{
+    height:661px;
+    width:100%;
+    background-image: url('../images/Rectangle 29 (1).png');
+    text-align: center;
+    padding:30px 0px 0px 0px;
+    margin-bottom: 30px;
+}
+.listentojeffspeak{
+    color:white;
+    
+}
+.keytoflexbox{
+    display:flex;
+    padding:30px 200px;
+    
+    flex-wrap: wrap;
+}
+.keyto2{
+    margin-left: 30px;
+}
+.keytoflexbox img{
+    width:544px;
+}
+.keyto3{
+    
+    width: 544px;
+}
+.interstedflexbox{
+    display: flex;
+    flex-wrap: wrap;
+    padding:0px 200px;
+    height:783px;
+    
+}
+.interested1{
+    width: 50%;
+    display: flex;
+    
+
+}
+.interested2{
+    
+    
+    width:50%;
+}
+.interested21{
+    width:100%;
+    padding:0px 100px;
+    text-align: center;
+}
+.interested22{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+.interested23{
+    padding:0px 60px;
+
+}
+.interested23 hr{
+    margin-bottom: 80px;
+}
+.interested23 input{
+    font-size: 30px;
+    border:none;
+    outline: none;
+    
+}
+.interested24 a{
+    text-align: center;
+    background-color: rgb(12, 132, 180);
+    padding:20px 40px;
+    border-radius: 10px;
+    font-size: 25px;
+    color:white;
+    text-decoration: none;
+}
+.interested24{
+    text-align: center;
+}
+.interested24 a:hover{
+    background-color: rgb(8, 81, 110);
+}
+.vector1{
+    margin-top: 130px;
+}
+.vector2{
+    margin-top: 270px;
+}
+.roundimage{
+    width:100%;
+    text-align: center;
+    padding:0px 200px;
+    overflow: hidden;
+    margin-bottom: 50px;
+    
+    height:307px;
+}
+.roundimage img{
+    width:100%;
+    
+}
+.roundrectangle1{
+    width:570px;
+    height:99px;
+    background-color:white;
+    border-radius: 100%;
+    position: relative;
+    bottom:317px;
+    right:135px;
+    
+}
+.roundrectangle2{
+    width:570px;
+    height:99px;
+    background-color:white;
+    border-radius: 100%;
+    position: relative;
+    bottom: 153px;
+    right:135px;
+}
+.roundrectangle3{
+    width:570px;
+    height:99px;
+    background-color:white;
+    border-radius: 100%;
+    position: relative;
+    bottom:515px;
+    left:717px;
+}
+.roundrectangle4{
+    width:570px;
+    height:99px;
+    background-color:white;
+    border-radius: 100%; 
+    position: relative;
+    bottom: 350px;
+    left:717px;
+}

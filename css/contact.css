@@ -1,0 +1,46 @@
+.contactpageparentflexbox{
+    display: flex;
+    flex-wrap: wrap;
+    padding:0px 200px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.contactpage1{
+    width:50%;
+    padding:50px 100px 0px 0px;
+}
+.contactpage1 img{
+    width:100%;
+}
+.contactpage2{
+    width:50%;
+    text-align: center;
+}
+
+.contactpage2 h1{
+    margin-bottom: 30px;
+}
+.contactpage2 input{
+    width:100%;
+    font-size: 25px;
+    border:none;
+    outline: none;
+}
+.contactpage2 hr{
+    margin-bottom: 40px;
+}
+
+.contactpage2 a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(45, 84, 228);
+    padding:20px 40px;
+    border-radius: 10px;
+    transform: translatey(20px);
+}
+.contactpage2 a:hover{
+    background-color: rgb(7, 25, 71);
+}
+
+

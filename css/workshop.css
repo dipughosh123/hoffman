@@ -1,0 +1,136 @@
+.growthparentflexbox{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 200px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.growthcontainer1{
+    width:45%;
+    padding:100px 0px;
+    text-align: center;
+}
+.growthcontainer1 h1{
+    font-size: 45px;
+}
+.growthcontainer1 P{
+    font-size: 35px;
+    letter-spacing: 25px;
+    margin-top: 30px;
+}
+.growthcontainer1 h2{
+    font-size: 35px;
+    margin-top: 30px;
+}
+.growthcontainer2{
+    width:55%;
+}
+.growthcontainer2 img{
+    width: 100%;
+}
+.workshopparentflexbox{
+    padding:30px 200px;
+    
+    
+}
+.wrokshopparent2{
+    background-color: rgb(236, 233, 233);
+    padding:30px 50px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.workshop1{
+    width:60%;
+}
+.workshop2{
+    width: 40%;
+    padding:0px 0px 50px 50px;
+}
+.in-person{
+    font-size: 40px;
+    font-weight: 700;
+}
+.workshoptext{
+    font-size: 30px;
+}
+.inpersonpara{
+    font-size: 18px;
+}
+.workshop2 img{
+    background-color: rgb(19, 19, 188);
+    padding:20px;
+    position: relative;
+    bottom: 100px;
+}
+.workshop2 a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    background-color: rgb(19, 19, 188);
+    padding:20px 40px;
+    border-radius: 10px;
+    margin-left: 73px;
+    
+}
+.sevencoremessageparent{
+    padding:0px 200px;
+    margin-bottom: 50px;
+}
+.seven{
+    font-size: 50px;
+}
+.coremessage{
+    font-size: 40px;
+}
+.brandshapingparent{
+    padding:0px 270px 50px 270px;
+    
+}
+.numbering{
+    font-size: 50px;
+}
+.brandshap1{
+    font-size: 30px;
+}
+.brandshapingparent h3{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.brandshaping2{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.requestpricing2parent{
+    text-align: center;
+    height: 70px;
+    margin-bottom: 30px;
+}
+.requestpricing2parent a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    background-color: rgb(15, 79, 135);
+    padding:20px 40px;
+    border-radius: 10px;
+    
+}
+.requestpricing2parent a:hover{
+    background-color: rgb(5, 51, 82);
+}
+.highlevelparent{
+    width:100%;
+    height:400px;
+    background-image: url('../images/Union (8).png');
+    background-size: cover;
+    margin-bottom: 80px;
+    padding:100px 250px;
+    text-align: center;
+
+}
+.highlevelparent p{
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+    line-height: 45px;
+}
